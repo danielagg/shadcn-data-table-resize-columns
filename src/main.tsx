@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <main className="min-h-screen flex flex-col py-12 bg-gray-900 text-gray-200">
       <section className="container">
         <h1 className="text-3xl font-bold">
-          shadcn/ui DataTable w/ advanced column options
+          shadcn/ui DataTable w/ column resizing
         </h1>
         <p className="text-gray-500 text-sm pt-2">
           This is an example where shadcn/ui's DataTable (built on top of the
